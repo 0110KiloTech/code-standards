@@ -13,3 +13,4 @@
   - Tools remove nitpicks (formatting, CI, PR templates)
   - Feedback
   - Self-review your PR before requesting review
+- Schema changes made easier with PlanetScale branching and reviews
