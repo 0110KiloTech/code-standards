@@ -48,6 +48,7 @@ These are general standards that can be applied across languages and technologie
 ## Databases
 
 - Use PlanetScale. Their ability to scale on MySQL/Vitess and now PostgreSQL make it a no brainer. Their branching and Deploy Request features makes managing online schema changes easy.
+- Add schema standards for naming tables, columns keys, etc.
 
 ## Standards to explore
 
