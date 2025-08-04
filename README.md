@@ -16,6 +16,7 @@ These are general standards that can be applied across languages and technologie
 - Commit strategy and messages (intent)
 - Review diff before committing
 - Use a tool like [lazygit](https://github.com/jesseduffield/lazygit) which makes it easier to stage chunks
+- GitHub Team plan with Branch Restrictions
 
 ### Code Review
 
