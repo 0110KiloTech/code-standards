@@ -18,6 +18,10 @@ These are general standards that can be applied across languages and technologie
 - Use a tool like [lazygit](https://github.com/jesseduffield/lazygit) which makes it easier to stage chunks
 - GitHub Team plan with Branch Restrictions
 
+### Technical Design Docs
+
+TBD
+
 ### Code Review
 
 - Always self-review your PRs before requesting review
@@ -50,6 +54,12 @@ These are general standards that can be applied across languages and technologie
 
 - Use PlanetScale. Their ability to scale on MySQL/Vitess and now PostgreSQL make it a no brainer. Their branching and Deploy Request features makes managing online schema changes easy.
 - Add schema standards for naming tables, columns keys, etc.
+
+## Tech Evaluation for Adoption
+
+- Packages
+- Third party services
+- Langages
 
 ## Standards to explore
 
