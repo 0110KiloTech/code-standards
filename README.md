@@ -14,7 +14,7 @@ These are general standards that can be applied across languages and technologie
 
 ### Git
 
-- Adopt a standard for commits and commit messages. [Conventional Commits](https://www.conventionalcommits.org/) or [Seven Rules method](https://cbea.ms/git-commit/). Additional resources: [git docs](https://git-scm.com/book/en/v2/Distributed-Git-Contributing-to-a-Project), [another resource](https://wiki.openstack.org/wiki/GitCommitMessages), [another resource](https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html), and [another resource](https://drewdeponte.com/blog/how-we-should-be-using-git/)
+- Adopt a standard for commits and commit messages. Consider [Conventional Commits](https://www.conventionalcommits.org/) or [Seven Rules method](https://cbea.ms/git-commit/). Additional resources: [git docs](https://git-scm.com/book/en/v2/Distributed-Git-Contributing-to-a-Project), [another resource](https://wiki.openstack.org/wiki/GitCommitMessages), [another resource](https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html), and [another resource](https://drewdeponte.com/blog/how-we-should-be-using-git/)
 - Review the diff before committing and break commits up into smaller units by staging chunks
 - Use a tool like [lazygit](https://github.com/jesseduffield/lazygit) which makes it easier to stage chunks
 - Determine if your team wants to squash and merge, rebase and merge or use standard merge commits
