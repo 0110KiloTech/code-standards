@@ -43,6 +43,9 @@ These are general standards that can be applied across languages and technologie
 - Formatting / Linting
   - Use [@ianvs/prettier-plugin-sort-imports](https://github.com/IanVS/prettier-plugin-sort-imports) and prettier-plugin-tailwindcss
 - Require semicolons, trailing commas, curly braces for if statements
+- Prefer undefined over null
+- Use type and interface where they make sense. Both are valid
+- Optional chaining (`?.`) is convenient, but overuse can hide bugs by masking missing data and weakening type safety. When possible, require values
 
 ## Infrastructure
 
